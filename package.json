@@ -16,7 +16,5 @@
     "url": "https://github.com/dustinpfister/tarzer/issues"
   },
   "homepage": "https://github.com/dustinpfister/tarzer#readme",
-  "dependencies": {
-    "yargs": "^17.0.1"
-  }
+  "dependencies": {}
 }
